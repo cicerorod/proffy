@@ -1,16 +1,9 @@
 import React from "react";
-import Loading from "../src/pages/Landing";
-
+import Routes from "./routes";
 import "./assets/styles/global.css";
 
 function App() {
-  return (
-    <Loading />
-
-    // <AuthProvider>
-    //   <Routes />
-    // </AuthProvider>
-  );
+  return <Routes />;
 }
 
 export default App;
