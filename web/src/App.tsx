@@ -1,10 +1,15 @@
 import React from "react";
+import Loading from "../src/pages/Landing";
+
+import "./assets/styles/global.css";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello Word</h1>{" "}
-    </div>
+    <Loading />
+
+    // <AuthProvider>
+    //   <Routes />
+    // </AuthProvider>
   );
 }
 
