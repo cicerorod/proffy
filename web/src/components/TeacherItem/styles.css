@@ -15,7 +15,7 @@
 .teacher-item header img {
   width: 8rem;
   height: 8rem;
-  border-radius: 4rem;
+  border-radius: 50%;
 }
 
 .teacher-item header div {
@@ -29,7 +29,7 @@
 }
 
 .teacher-item header div span {
-  font-size: 1.6rem;
+  font: 1.6rem;
   display: block;
   margin-top: 0.4rem;
 }
