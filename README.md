@@ -116,18 +116,21 @@ yarn start # ou npm start
 ------------
 
 
-## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Bibliotecas e tecnologias utilizadas:
+## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Principais tecnologias utilizadas:
 
-- **[HTML](https://www.w3schools.com/html/)**
-- **[JavaScript](https://www.w3schools.com/js/)**
-- **[CSS](https://www.w3schools.com/Css/)**
-- **[ES6+](https://www.w3schools.com/Js/js_es6.asp)**
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Node.js](https://nodejs.org/en/)**
 - **[ReactJS](https://reactjs.org/)**
-- **[Json-Server](https://reactjs.org/)**
 - **[React Dom](https://www.npmjs.com/package/react-dom)**
+- **[React Native](http://facebook.github.io/react-native/)**
+- **[Expo](https://expo.io/)**
+- **[Express](https://expressjs.com/)**
+- **[axios](https://github.com/axios/axios)**
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=hackingcarreira_wmc-github-gllemos)**
 - **[Vercel](https://vercel.com/)**
 - **[Heroku](https://heroku.com/)**
+- **[Netlify](https://netlify.com/)**
+
 
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
 
