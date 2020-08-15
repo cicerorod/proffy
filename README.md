@@ -59,7 +59,7 @@ yarn knex:migrate # ou npm run knex:migrate
 # Para iniciar a API
 yarn start # ou npm start
 ```
-#### Dependências de desenvolvimento
+##### Dependências de desenvolvimento
 - cors
 - express
 - knex
@@ -81,14 +81,14 @@ yarn # ou npm install
 # Para rodar a aplicação
 yarn start # ou npm start
 ```
-#### Dependências de desenvolvimento
+##### Dependências de desenvolvimento
 - axios
 - react-router-dom
 - typescript
 ------------
 
 
-#### Mobile
+### Mobile
 Aplicação feita inteiramente em React Native e Typescript, que consome uma API REST fornecida pelo server.
 
 ```bash
@@ -101,7 +101,7 @@ yarn # ou npm install
 # Para rodar a aplicação
 yarn start # ou npm start
 ```
-#### Dependências de desenvolvimento
+##### Dependências de desenvolvimento
 - expo-google-fonts
 - react-native-community/async-storage
 - react-native-community/masked-view
