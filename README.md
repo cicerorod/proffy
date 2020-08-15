@@ -18,7 +18,7 @@ O Proffy visa conectar profissionais da educação para com possíveis novos alu
  </p>
 
 <p align="center">
- <img src="https://github.com/cicerorod/proffy/blob/master/img/Tela.png" alt="animated" />
+ <img src="https://github.com/cicerorod/proffy/blob/master/img/Tela.PNG" alt="animated" />
 </p>
 
 
