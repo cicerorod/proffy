@@ -67,6 +67,7 @@ yarn start # ou npm start
 - typescript
 ------------
 
+Acesso a API: http://localhost:3333/
 
 ### Web
 Aplicação feita inteiramente em React.js e Typescript, que consome uma API REST fornecida pelo server.
@@ -86,7 +87,7 @@ yarn start # ou npm start
 - react-router-dom
 - typescript
 ------------
-
+Acesso ao site: http://localhost:3000/
 
 ### Mobile
 Aplicação feita inteiramente em React Native e Typescript, que consome uma API REST fornecida pelo server.
@@ -114,6 +115,8 @@ yarn start # ou npm start
 - react-native-gesture-handler
 - typescript
 ------------
+
+Leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
 
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Principais tecnologias utilizadas:
