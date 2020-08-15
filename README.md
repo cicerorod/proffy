@@ -30,6 +30,15 @@ O Proffy visa conectar profissionais da educação para com possíveis novos alu
 
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
+### Pré-requisitos
+
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado no computador
+  - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+  - Por fim, é **essencial** ter o **[Expo](https://expo.io/)** instalado de forma global na máquina
+
+### Clone
+
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/proffy.git`
 2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd proffy`;
 
