@@ -37,18 +37,26 @@ O Proffy visa conectar profissionais da educação para com possíveis novos alu
 Aplicação feita em Node.js e Typescript que utiliza o SQLite como banco de dados.
 Ele é indispensável para a aplicação, portanto deve ser o primeiro a entrar em funcionamento.
 
+  # API
+  $ cd server
+  # Instalando as dependências do projeto.
+  $ yarn # ou npm install
+  # Configurando o banco de dados e criando as tabelas.
+  $ yarn knex:migrate # ou npm run knex:migrate
+
+
 ```bash
 # Navegue até a pasta server
 cd server
 
 # Para instalar todas as dependências do projeto
-npm install
+yarn # ou npm install
 
 # Para criar as tabelas no banco de dados
-npm run knex:migrate
+yarn knex:migrate # ou npm run knex:migrate
 
-# Para rodar a aplicação
-npm start
+# Para iniciar a API
+yarn start # ou npm start
 ```
 #### Dependências de desenvolvimento
 - cors
@@ -67,10 +75,10 @@ Aplicação feita inteiramente em React.js e Typescript, que consome uma API RES
 cd web
 
 # Para instalar todas as dependências do projeto
-npm install
+yarn # ou npm install
 
 # Para rodar a aplicação
-npm start
+yarn start # ou npm start
 ```
 #### Dependências de desenvolvimento
 - axios
@@ -87,10 +95,10 @@ Aplicação feita inteiramente em React Native e Typescript, que consome uma API
 cd mobile
 
 # Para instalar todas as dependências do projeto
-npm install
+yarn # ou npm install
 
 # Para rodar a aplicação
-npm start
+yarn start # ou npm start
 ```
 #### Dependências de desenvolvimento
 - expo-google-fonts
@@ -104,6 +112,7 @@ npm start
 - expo-font
 - react-native-gesture-handler
 - typescript
+------------
 
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Bibliotecas e tecnologias utilizadas:
