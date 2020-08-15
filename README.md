@@ -34,17 +34,9 @@ O Proffy visa conectar profissionais da educação para com possíveis novos alu
 2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd proffy`;
 
 ### Server
-Aplicação feita em Node.js e Typescript que utiliza o SQLite como banco de dados.
-Ele é indispensável para a aplicação, portanto deve ser o primeiro a entrar em funcionamento.
-
-  # API
-  $ cd server
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Configurando o banco de dados e criando as tabelas.
-  $ yarn knex:migrate # ou npm run knex:migrate
-
-
+API feita em Node.js e Typescript que utiliza o SQLite como banco de dados.
+É indispensável para a aplicação, portanto deve ser o primeiro a entrar em funcionamento.
+ 
 ```bash
 # Navegue até a pasta server
 cd server
