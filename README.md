@@ -7,7 +7,7 @@
 # Proffy ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Este é um projeto desenvolvido durante a Next Level Week #2, realizada pela
-**[Rocketseat]https://rocketseat.com.br/)** durante os dias 3 a 9 de Agosto de 2020.
+**[Rocketseat](https://rocketseat.com.br/)** durante os dias 3 a 9 de Agosto de 2020.
 
 O Proffy visa conectar profissionais da educação para com possíveis novos alunos. Na plataforma você pode cadastrar-se como professor ou simplesmente listar todos os profissionais disponíveis com base em um sistema de filtros (dia da semana, horário e disciplina ministrada).
 
@@ -18,7 +18,7 @@ O Proffy visa conectar profissionais da educação para com possíveis novos alu
  </p>
 
 <p align="center">
- <img src="https://github.com/cicerorod/proffy/blob/master/gif/DogFlix_site.gif" alt="animated" />
+ <img src="https://github.com/cicerorod/proffy/blob/master/img/Tela.png" alt="animated" />
 </p>
 
 
