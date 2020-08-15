@@ -50,16 +50,14 @@ npm run knex:migrate
 # Para rodar a aplicação
 npm start
 ```
-
-
 #### Dependências de desenvolvimento
 - cors
 - express
 - knex
 - sqlite3
 - typescript
-
 ------------
+
 
 ### Web
 Aplicação feita inteiramente em React.js e Typescript, que consome uma API REST fornecida pelo server.
@@ -74,11 +72,12 @@ npm install
 # Para rodar a aplicação
 npm start
 ```
-
 #### Dependências de desenvolvimento
 - axios
 - react-router-dom
 - typescript
+------------
+
 
 #### Mobile
 Aplicação feita inteiramente em React Native e Typescript, que consome uma API REST fornecida pelo server.
@@ -93,7 +92,6 @@ npm install
 # Para rodar a aplicação
 npm start
 ```
-
 #### Dependências de desenvolvimento
 - expo-google-fonts
 - react-native-community/async-storage
@@ -106,8 +104,6 @@ npm start
 - expo-font
 - react-native-gesture-handler
 - typescript
-
-
 
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Bibliotecas e tecnologias utilizadas:
