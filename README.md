@@ -31,14 +31,59 @@ O Proffy visa conectar profissionais da educação para com possíveis novos alu
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/proffy.git`
+2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd proffy`;
 
-2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd dogflix`;
-3. Executar o comando `yarn` para baixar as dependências. Ex: `yarn`;
-4. Executar o comando `yarn dev`. Ex: `yarn dev`
-5. Acessar o endereço do backend `http://localhost:8080/`
-6. Acessar o endereço do frontend `http://localhost:3000/`
+### Server
+Aplicação feita em Node.js e Typescript que utiliza o SQLite como banco de dados.
+Ele é indispensável para a aplicação, portanto deve ser o primeiro a entrar em funcionamento.
 
-<!-- :hammer:-->
+```bash
+# Navegue até a pasta server
+cd server
+
+# Para instalar todas as dependências do projeto
+npm install
+
+# Para criar as tabelas no banco de dados
+npm run knex:migrate
+
+# Para rodar a aplicação
+npm start
+```
+
+------------
+
+#### Web
+Aplicação feita inteiramente em React.js e Typescript, que consome uma API REST fornecida pelo server.
+
+```bash
+# Navegue até a pasta web
+cd web
+
+# Para instalar todas as dependências do projeto
+npm install
+
+# Para rodar a aplicação
+npm start
+```
+
+#### Mobile
+Aplicação feita inteiramente em React Native e Typescript, que consome uma API REST fornecida pelo server.
+
+```bash
+# Navegue até a pasta mobile
+cd mobile
+
+# Para instalar todas as dependências do projeto
+npm install
+
+# Para rodar a aplicação
+npm start
+```
+
+
+
+
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Bibliotecas e tecnologias utilizadas:
 
