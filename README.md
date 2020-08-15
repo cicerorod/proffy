@@ -1,10 +1,16 @@
-<h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" height="100px" />
+<h3 align="center">
+    <img alt="Proffy" src=".github/logo.svg" height="50px" />
     <br>Next Level Week #2<br/>
     Node.js | ReactJS | React Native
-</h1>
+    
+</h3>
 
-# Proffy ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+<p align="center">
+  <img alt="Concluído" src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-green">
+</p>
+
+
+
 
 Este é um projeto desenvolvido durante a Next Level Week #2, realizada pela
 **[Rocketseat](https://rocketseat.com.br/)** durante os dias 3 a 9 de Agosto de 2020.
