@@ -10,8 +10,6 @@
 </p>
 
 
-
-
 Este é um projeto desenvolvido durante a Next Level Week #2, realizada pela
 **[Rocketseat](https://rocketseat.com.br/)** durante os dias 3 a 9 de Agosto de 2020.
 
